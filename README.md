@@ -17,6 +17,11 @@
 ## EXEファイルバージョン
 exeファイルversionを用意しています。
 ファイルサイズは11MBで、環境構築を必要とせず実行することで出力することができます。
+起動まで5秒くらいかかりますpyinstallerの仕様だと思います...
+
+- [ ] また、<span style="color: red; ">Windows Defenderに不明なファイルとして検出される場合があります</span>
+
+対処法は分かりません((
 
 - [x] Download [https://github.com/anko191/DailyProgress/raw/main/progressbar.exe](https://github.com/anko191/DailyProgress/raw/main/progressbar.exe)
 
@@ -26,7 +31,8 @@ exeファイルversionを用意しています。
 
 ###  必要なモジュール
 ```
-pip install tkinter
+python 3.8 (このバージョンじゃなくてもいいと思います)
+pip install tkinter (元から入ってるかも)
 pip install pillow
 ```
 
