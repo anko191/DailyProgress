@@ -3,6 +3,7 @@
 
 * 自動的に画像化までしてくれます
 * 出力画像は実行ファイルと一緒の場所に出力されます
+* 最大文字数は10文字です、それ以上は途中で切られます
 
 ![](https://github.com/anko191/DailyProgress/blob/main/imgs/ex2.png)
 
