@@ -36,7 +36,8 @@ git clone https://github.com/anko191/DailyProgress.git
 ```
 をした後、ターミナルで
 ```
-python progressbar.py
+\> cd DailyProgress
+\DailyProgress> python progressbar.py
 ```
 を実行する！
 
