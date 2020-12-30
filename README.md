@@ -43,6 +43,7 @@ exeファイルversionを用意しています。<br>
 python 3.8 (このバージョンじゃなくてもいいと思います)
 pip install tkinter (元から入ってるかも)
 pip install pillow
+import re
 ```
 
 * 実行方法として
